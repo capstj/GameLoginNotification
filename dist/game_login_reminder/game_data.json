@@ -1,0 +1,18 @@
+{
+    "games": [
+        {
+            "game": "WutheringWaves",
+            "game.exe": "Client-Win64-Shipping.exe",
+            "server_reset_time": "01:30",
+            "login_status": false,
+            "last_login_time": "2024-12-28 00:29:56.557590"
+        },
+        {
+            "game": "PGR",
+            "game.exe": "PGR.exe",
+            "server_reset_time": "12:30",
+            "login_status": true,
+            "last_login_time": "2024-12-28 00:33:29.941077"
+        }
+    ]
+}
